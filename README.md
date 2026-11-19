@@ -21,4 +21,4 @@ Project management is the deeper part of my background, with product management 
 
 Hands-on with Claude Code, Codex, MCP, Flutter, Next.js, Supabase and Vercel. Certified in AI product management and agentic systems by IBM, Microsoft and Vanderbilt, plus Anthropic's courses on Claude Code, MCP and AI fluency, and Google's cybersecurity certificate.
 
-More of my work and writing: [stevensmith.dev](https://stevensmith.dev) · [LinkedIn](https://www.linkedin.com/in/steven-smith-14bba259/) · [note](https://note.com/synapse_vector)
+More of my work and writing: [stevensmith.dev](https://stevensmith.dev/?utm_source=github&utm_campaign=profile) · [LinkedIn](https://www.linkedin.com/in/steven-smith-14bba259/) · [note](https://note.com/synapse_vector)
