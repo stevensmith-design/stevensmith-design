@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Steven Smith
 
 I'm a bilingual (English and Japanese) AI product manager in Tokyo. I use agentic practices to strategise, design, build and deploy digital products that run in production. This year that included a production iOS app for an enterprise client, which I delivered as the sole designer and front-end developer using agent tooling I built.
